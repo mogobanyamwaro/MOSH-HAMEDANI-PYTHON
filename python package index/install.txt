@@ -1,0 +1,17 @@
+pip3 install 
+
+pip3 list
+
+
+pip3 install pipenv
+
+pipenv graph // see all the dependecies
+
+pipenv update --outdated
+
+pipenv shell
+
+puplish a package in pypi
+
+
+

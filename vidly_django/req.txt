@@ -1,0 +1,5 @@
+pipenv install django==2.1
+django-admin startproject vidly .
+pylint-django
+.pylintrc   
+            {load-plugins = pylint-django}
